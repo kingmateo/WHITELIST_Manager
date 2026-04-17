@@ -28,12 +28,9 @@ Before installing WHITELIST, please ensure your system meets the following requi
 
 The WHITELIST release package includes the following files:
 
-- `WHITELIST_Manager.exe` - Main application executable
-- `v2rayN-windows-64-v7.12.5` - V2Ray core (required for connection)
-- `Help.zip` - Complete setup and installation guide in both Persian and English
-- `config.json` - Configuration file (auto-created on first run)
-- `input_V2ray.txt` - Input configuration template
-- `output_V2ray.txt` - Output configuration file
+- `WHITELIST_Manager.rar` - Main application executable
+- `v2rayN-windows-64-v7.12.5.rar` - V2Ray core (required for connection)
+- `Help.rar` - Complete setup and installation guide in both Persian and English
 
 ---
 
